@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820372115628",
+    "project_id": "entregafinalpsp",
+    "storage_bucket": "entregafinalpsp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820372115628:android:8a3fd30fc420d787844f09",
+        "android_client_info": {
+          "package_name": "com.example.entregafinalpsp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT_upIdXic3uC8wdtHAGbpX9ulh4S7Z8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
